@@ -1,0 +1,18 @@
+{
+	"Created": "Создан товар «:title»",
+	"Updated": "Изменен товар «:title»",
+	"Removed": "Удалён товар «:title»",
+	"Create product": "Создать запись о продукте",
+	"Edit product": "Отредактировать запись о продукте",
+	"Remove product": "Удалить запись о продукте",
+	"Save product": "Сохранить запись о продукте",
+	"Update product": "Обновить запись о продукте",
+	"Price": "Цена",
+	"Products": "Товары",
+	"Title": "Наименование",
+	"Create manufacturer": "Создать производителя",
+	"Remove manufacturer": "Удалить запись о производителя",
+	"Save manufacturer": "Сохранить запись о производителя",
+	"Edit manufacturer": "Отредактировать запись о производителя",
+	"Update manufacturer": "Обновить запись о производителя"
+}
